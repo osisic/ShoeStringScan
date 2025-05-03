@@ -1,0 +1,4 @@
+rich
+PyYAML
+jinja2
+python-dotenv 
