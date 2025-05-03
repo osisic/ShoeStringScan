@@ -6,7 +6,8 @@ A modular, cross-platform, incremental code-repository security scanner. Integra
 - One-command security baseline for any Git repo
 - Plug-in architecture for easy tool addition
 - Offline scanning after first install (caches Docker images)
-- Friendly UX: progress bars, summaries, HTML dashboard
+- Friendly UX: progress bars, summaries, HTML dashboard yyy
+
 
 ## Usage
 ```sh
