@@ -1,5 +1,0 @@
-scoring:
-  critical_weight: 20
-  high_weight: 10
-  medium_weight: 5
-  low_weight: 1 
